@@ -48,4 +48,6 @@ print ($kicsi * $nagy) . "<br /><br />";
 
 // Itt a vége. :-)
 
+// saját gépen frissítve :-)
+
 ?>
