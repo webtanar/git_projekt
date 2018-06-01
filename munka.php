@@ -50,4 +50,6 @@ print ($kicsi * $nagy) . "<br /><br />";
 
 // saját gépen frissítve :-)
 
+// A kód ezzel a sorral bővült.
+
 ?>
