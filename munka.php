@@ -24,8 +24,9 @@ print $b + $d;
 $x = 15;
 $y = 59;
 $z = 370;
+$p = 420;
 
-print "<br /><br />" . $z - $y - $x . "<br /><br />";
+print "<br /><br />" . $z - $y - $x - $p . "<br /><br />"; // erre is büszke vagyok! :-P
 
 // Osztás
 //------------------
