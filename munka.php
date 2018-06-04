@@ -15,6 +15,7 @@ print $a + $b + $c + $d;
 
 // a GitHub-on szerkesztettem
 
+print $b + $d;
 
 
 // Kivonás
